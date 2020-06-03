@@ -1,6 +1,6 @@
 # coot-ml-correctness
 
-Coot script that uses machine learning to predict the correctness of protein residues
+Coot ML Correctness script that uses machine learning to predict the correctness of protein residues
 
 From the menu, go to `Calculate -> Run Script` and select
 [correctness.py](https://raw.githubusercontent.com/paulsbond/coot-ml-correctness/master/correctness.py).
